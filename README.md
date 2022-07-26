@@ -32,14 +32,16 @@
 ![newbranch](https://user-images.githubusercontent.com/40923191/181110934-99bef5d5-238c-42d9-8725-d6c6a2199f71.png)
 
 
-### 4. Add your item textures to the folder inside of assets that matches your area. (For example, area 5 textures would go in MusicfireRP/assets/area_5). For anything that isn't item textures, contact the organisers. Once you've added them, commit your changes and push to origin.
+### 4. Add your item textures to the folder inside of assets that matches your area. Once you've added them, commit your changes and push to origin.
+    For anything that isn't item textures, contact the organisers.
 
 ![image](https://user-images.githubusercontent.com/40923191/181112992-4f065123-d0bf-4af1-84fa-3b445ad8474e.png)
 
 ![image](https://user-images.githubusercontent.com/40923191/181113049-5d8cd581-6269-4424-9207-91092a351368.png)
 
 
-### 5. To submit your changes, create a pull request. A browser tab will open for it. Once you've created it, an organiser will review it and add it into the main branch      of the pack.
+### 5. To submit your changes, create a pull request.
+       A browser tab will open for it. Once created, an organiser will review it and add it into the main branch of the pack.
 
 ![pullreq](https://user-images.githubusercontent.com/40923191/181112510-6aeab937-3593-4fc6-99be-0b0f3496254a.png)
 
