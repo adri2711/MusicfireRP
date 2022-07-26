@@ -8,13 +8,13 @@
 ### 1. Install Github Desktop: https://desktop.github.com/
 
 ### 2. Clone the repository to your .minecraft\resourcepacks folder: Code > Open with Github Desktop > Clone
-
    IMPORTANT: the repository path should be .minecraft\resourcepacks\MusicfireRP (make sure there isn't an additional folder)
    
 ![image](https://user-images.githubusercontent.com/40923191/181114442-17245575-7585-43ca-9eee-9dd5617a56b6.png)
 
 
-### 3. Once you've successfully cloned the repository, you can normally apply the resourcepack from Minecraft. To update it as people add things, click on fetch origin.
+### 3. Once you've successfully cloned the repository, you can normally apply the resourcepack from Minecraft.
+   To update it as people add things, click on fetch origin.
 
 ![image](https://user-images.githubusercontent.com/40923191/181114673-c3cf9af1-5a4c-4dd4-85e1-7ce2c1aa0a9b.png)
 
@@ -33,7 +33,7 @@
 
 
 ### 4. Add your item textures to the folder inside of assets that matches your area. Once you've added them, commit your changes and push to origin.
-    For anything that isn't item textures, contact the organisers.
+   For anything that isn't item textures, contact the organisers.
 
 ![image](https://user-images.githubusercontent.com/40923191/181112992-4f065123-d0bf-4af1-84fa-3b445ad8474e.png)
 
@@ -41,7 +41,7 @@
 
 
 ### 5. To submit your changes, create a pull request.
-       A browser tab will open for it. Once created, an organiser will review it and add it into the main branch of the pack.
+   A browser tab will open for it. Once created, an organiser will review it and add it into the main branch of the pack.
 
 ![pullreq](https://user-images.githubusercontent.com/40923191/181112510-6aeab937-3593-4fc6-99be-0b0f3496254a.png)
 
