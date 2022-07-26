@@ -8,6 +8,7 @@ If you want to be able to update it live as people add to it here's how:
 1. Install Github Desktop: https://desktop.github.com/
 
 2. Clone the repository to your .minecraft\resourcepacks folder: Code > Open with Github Desktop > Clone
+
    IMPORTANT: the repository path should be .minecraft\resourcepacks\MusicfireRP (make sure there isn't an additional folder)
    
 ![image](https://user-images.githubusercontent.com/40923191/181114442-17245575-7585-43ca-9eee-9dd5617a56b6.png)
@@ -38,7 +39,7 @@ If you want to be able to update it live as people add to it here's how:
 ![image](https://user-images.githubusercontent.com/40923191/181113049-5d8cd581-6269-4424-9207-91092a351368.png)
 
 
-5. To submit your changes, create a pull request. A browser tab will open for it. Once you've created it, an organiser will review it and add it into the main branch of the pack.
+5. To submit your changes, create a pull request. A browser tab will open for it. Once you've created it, an organiser will review it and add it into the main branch      of the pack.
 
 ![pullreq](https://user-images.githubusercontent.com/40923191/181112510-6aeab937-3593-4fc6-99be-0b0f3496254a.png)
 
