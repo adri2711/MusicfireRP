@@ -5,7 +5,7 @@
 
 ##### If you want to be able to update it live as people add to it here's how:
 
-### 1. Install Github Desktop: https://desktop.github.com/
+### 1. Install and set up Github Desktop: https://desktop.github.com/
 
 ### 2. Clone the repository to your .minecraft\resourcepacks folder: Code > Open with Github Desktop > Clone
    IMPORTANT: the repository path should be .minecraft\resourcepacks\MusicfireRP (make sure there isn't an additional folder)
@@ -14,7 +14,7 @@
 
 
 ### 3. Once you've successfully cloned the repository, you can normally apply the resourcepack from Minecraft.
-   To update it as people add things, click on fetch origin.
+   To update it as people add things, click on fetch origin and press f3 + T.
 
 ![image](https://user-images.githubusercontent.com/40923191/181114673-c3cf9af1-5a4c-4dd4-85e1-7ce2c1aa0a9b.png)
 
