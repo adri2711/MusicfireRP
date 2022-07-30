@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "area_11:blocks/pillar_x",
+      "x": 90,
+      "y": 90
+    },
+    "facing=north": {
+      "model": "area_11:blocks/pillar_y"
+    },
+    "facing=south": {
+      "model": "area_11:blocks/pillar_z",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "area_11:blocks/pillar_n",
+      "y": 270
+    }
+  }
+}
