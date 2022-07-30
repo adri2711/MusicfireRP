@@ -1,0 +1,9 @@
+{
+	"parent":"item/handheld",
+	"textures":{
+	   "layer0":"item/golden_boots"
+	},
+	"overrides":[
+		{ "predicate":{ "custom_model_data": 3005 }, "model":"area_3:pristine_golden_boots" }
+	]
+ }
