@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "distance=1": {
+      "model": "area_11:blocks/leaves"
+    }
+  }
+}

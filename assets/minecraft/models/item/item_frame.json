@@ -12,10 +12,14 @@
 		{"predicate": {"custom_model_data": 11012}, "model": "area_11:ground_objects/paper/2"},
 		{"predicate": {"custom_model_data": 11021}, "model": "area_11:ground_objects/inkwell/1"},
 		{"predicate": {"custom_model_data": 11031}, "model": "area_11:ground_objects/globe/1"},
+		{"predicate": {"custom_model_data": 11041}, "model": "area_11:ground_objects/skull/1"},
+		{"predicate": {"custom_model_data": 11042}, "model": "area_11:ground_objects/skull/2"},
+		{"predicate": {"custom_model_data": 11043}, "model": "area_11:ground_objects/skull/3"},
 		{"predicate": {"custom_model_data": 11101}, "model": "area_11:dev_flats/book"},
 		{"predicate": {"custom_model_data": 11102}, "model": "area_11:dev_flats/paper"},
 		{"predicate": {"custom_model_data": 11103}, "model": "area_11:dev_flats/inkwell"},
 		{"predicate": {"custom_model_data": 11104}, "model": "area_11:dev_flats/globe"},
+		{"predicate": {"custom_model_data": 11105}, "model": "area_11:dev_flats/skull"},
 		{"predicate": {"custom_model_data": 2147483647}, "model": "end:dummy/foo_bar"}
 	]
 }
