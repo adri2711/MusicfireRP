@@ -1,0 +1,21 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/item_frame"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data": 11001}, "model": "area_11:ground_objects/book/1"},
+		{"predicate": {"custom_model_data": 11002}, "model": "area_11:ground_objects/book/2"},
+		{"predicate": {"custom_model_data": 11003}, "model": "area_11:ground_objects/book/3"},
+		{"predicate": {"custom_model_data": 11004}, "model": "area_11:ground_objects/book/4"},
+		{"predicate": {"custom_model_data": 11011}, "model": "area_11:ground_objects/paper/1"},
+		{"predicate": {"custom_model_data": 11012}, "model": "area_11:ground_objects/paper/2"},
+		{"predicate": {"custom_model_data": 11021}, "model": "area_11:ground_objects/inkwell/1"},
+		{"predicate": {"custom_model_data": 11031}, "model": "area_11:ground_objects/globe/1"},
+		{"predicate": {"custom_model_data": 11101}, "model": "area_11:dev_flats/book"},
+		{"predicate": {"custom_model_data": 11102}, "model": "area_11:dev_flats/paper"},
+		{"predicate": {"custom_model_data": 11103}, "model": "area_11:dev_flats/inkwell"},
+		{"predicate": {"custom_model_data": 11104}, "model": "area_11:dev_flats/globe"},
+		{"predicate": {"custom_model_data": 2147483647}, "model": "end:dummy/foo_bar"}
+	]
+}
