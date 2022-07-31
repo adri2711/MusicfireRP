@@ -1,0 +1,10 @@
+{
+	"parent":"item/handheld",
+	"textures":{
+	   "layer0":"item/diamond_axe"
+	},
+	"overrides":[
+		{ "predicate":{ "custom_model_data": 11209 }, "model":"area_11:item/11209" },
+		{ "predicate":{ "custom_model_data": 11210 }, "model":"area_11:item/11210" }
+	]
+ }

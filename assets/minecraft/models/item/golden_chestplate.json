@@ -4,6 +4,7 @@
 	   "layer0":"item/golden_chestplate"
 	},
 	"overrides":[
-		{ "predicate":{ "custom_model_data": 3003 }, "model":"area_3:pristine_golden_chestplate" }
+		{ "predicate":{ "custom_model_data": 3003 }, "model":"area_3:pristine_golden_chestplate" },
+		{ "predicate":{ "custom_model_data": 11000 }, "model":"item/golden_chestplate" }
 	]
  }

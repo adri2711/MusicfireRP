@@ -1,0 +1,9 @@
+{
+	"parent":"item/generated",
+	"textures":{
+	   "layer0":"item/dragon_breath"
+	},
+	"overrides":[
+		{ "predicate":{ "custom_model_data": 11227 }, "model":"area_11:item/11227" }
+	]
+ }

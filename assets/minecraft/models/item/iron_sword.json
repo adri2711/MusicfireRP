@@ -5,7 +5,8 @@
   },
 
  "overrides": [
-  { "predicate": {"custom_model_data": 5001}, "model": "area_5:item/iron_sword/05001"}
+  { "predicate": {"custom_model_data": 5001}, "model": "area_5:item/iron_sword/05001"},
+  { "predicate":{ "custom_model_data": 11224 }, "model":"area_11:item/11224" }
 
  ]
 
