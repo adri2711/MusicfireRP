@@ -1,0 +1,10 @@
+{
+	"parent":"item/handheld",
+	"textures":{
+	   "layer0":"item/golden_axe"
+	},
+	"overrides":[
+		{ "predicate":{ "custom_model_data": 10001 }, "model":"area_10:demonbreaker" },
+		{ "predicate":{ "custom_model_data": 11206 }, "model":"area_11:item/11206" }
+	]
+ }

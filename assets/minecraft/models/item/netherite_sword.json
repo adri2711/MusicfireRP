@@ -1,0 +1,9 @@
+{
+	"parent":"item/handheld",
+	"textures":{
+	   "layer0":"item/netherite_sword"
+	},
+	"overrides":[
+		{ "predicate":{ "custom_model_data": 11223 }, "model":"area_11:item/11223" }
+	]
+ }
