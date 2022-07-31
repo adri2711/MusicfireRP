@@ -4,5 +4,5 @@
 	   "layer0":"item/golden_apple"
 	},
 	"overrides":[
-		{ "predicate":{ "custom_model_daata": 02001 }, "model":"area_2:textue_001" }
+		{ "predicate":{ "custom_model_daata": 2001 }, "model":"area_2:textue_001" }
  }
