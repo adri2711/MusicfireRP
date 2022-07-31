@@ -1,7 +1,7 @@
 {
 	"parent":"item/handheld",
 	"textures":{
-	   "layer0":"item/stick"
+	   "layer0":"item/nether_wart"
 	},
 	"overrides":[
 		{ "predicate":{ "custom_model_data": 3010 }, "model":"item/crimson_fungus" }
