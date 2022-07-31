@@ -4,6 +4,6 @@
 	   "layer0":"item/stick"
 	},
 	"overrides":[
-		{ "predicate":{ "custom_model_data": 3010 }, "model":"item/warped_fungus" }
+		{ "predicate":{ "custom_model_data": 3010 }, "model":"item/crimson_fungus" }
 	]
  }
