@@ -4,8 +4,8 @@
 	   "layer0":"item/stick"
 	},
 	"overrides":[
-		{ "predicate":{ "custom_model_data": 02003 }, "model":"area_2:textue_003" },
-		{ "predicate":{ "custom_model_data": 02004 }, "model":"area_2:textue_004" },
+		{ "predicate":{ "custom_model_data": 2003 }, "model":"area_2:textue_003" },
+		{ "predicate":{ "custom_model_data": 2004 }, "model":"area_2:textue_004" },
 		{ "predicate":{ "custom_model_data": 3001 }, "model":"area_3:crimson_twig" },
 		{ "predicate":{ "custom_model_data": 11229 }, "model":"area_11:item/11229" }
 	]
