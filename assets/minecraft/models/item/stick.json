@@ -1,0 +1,9 @@
+{
+	"parent":"item/handheld",
+	"textures":{
+	   "layer0":"item/stick"
+	},
+	"overrides":[
+		{ "predicate":{ "custom_model_data": 3001 }, "model":"area_3:crimson_twig" }
+	]
+ }
