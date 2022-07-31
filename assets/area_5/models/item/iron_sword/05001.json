@@ -1,0 +1,7 @@
+{
+ "parent": "item/handheld",
+ "textures": {
+  "layer0": "item/05001/05001"
+ }
+
+}
